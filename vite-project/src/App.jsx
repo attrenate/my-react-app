@@ -1,4 +1,4 @@
-import button from './button.jsx'
+import Button from './Button/button.jsx'
 
 function App() {
   
