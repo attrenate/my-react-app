@@ -1,12 +1,9 @@
-import Button from './Button/button.jsx'
+import MyComponent from './assets./MyComponent.jsx'
 
 function App() {
   
   return(
-   
-    <button/>
-   
-  
+    <MyComponent/>
   );
 }
 
