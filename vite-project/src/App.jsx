@@ -1,9 +1,10 @@
-import MyComponent from './assets./MyComponent.jsx'
+
+import Component from './Component.jsx';
 
 function App() {
   
   return(
-    <MyComponent/>
+    <Component/>
   );
 }
 
