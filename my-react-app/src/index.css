@@ -1,0 +1,39 @@
+/*
+.counter-container{
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  flex-direction: column;
+}
+.btn-wrapper{
+  display: flex;
+  gap: 1em;
+}
+.decrease-btn, .reset-btn, .increase-btn{
+  width: 100px;
+  height: 30px;
+  border-radius: 5px;
+  padding: 5px;
+  cursor: pointer;
+  background-color: dodgerblue;
+}
+
+
+.userInput{
+  width: 200px;
+  height: 50px;
+  display: flex;
+  justify-self: center;
+  font-size: 1.3em;
+}
+p{
+  display: flex;
+  justify-self: center;
+}
+*/
+.div{
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  flex-direction: column;
+}
